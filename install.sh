@@ -72,3 +72,4 @@ else
     echo "[✘] Installation Failed !!! [✘]";
     exit
 fi
+
